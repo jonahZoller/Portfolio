@@ -1,3 +1,3 @@
-# Portfolio
+# Jonah Zoller
 
-### Collection of previous projects
+### Collection of past projects in Python, Java, and Web Development
