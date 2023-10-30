@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>ClockIO</title>
+        <link rel="stylesheet" href="IO.css">
+    </head>
+    <body>
+        <div class="center">
+            <h1>ClockIO</h1>
+            <main class="table">
+                <section class="tableHeader">
+                </section>
+                <section class="tableBody">
+                    <table>
+                        
+                    <div>
+                        <input type="file" name="file" id="file" accept=".csv" > <br><br>
+                        <input type="button" id="btnsubmit" value="Submit" onclick="readCSVFile();" >
+                        <script src="tabletest.js"></script>
+                   </div>
+               
+                   <br><br>
+                   <!-- List CSV file data -->
+                   <table id="tblcsvdata" border="1" style="border-collapse: collapse;">
+                        <thead>
+                             <tr>
+                                 <th>S.no</th>
+                                 <th>Username</th>
+                                 <th>Name</th>
+                             </tr>
+                        </thead>
+                        <tbody>
+                        
+                        </tbody>
+                </section>
+            </main>
+        </div>
+    </body>
+</html>
