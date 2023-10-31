@@ -15,4 +15,4 @@ I am a student at Mater Dei Highschool and apart of the Computer Science at Sout
 3. 3
 
 ### Hobbies:
-pictures
+
