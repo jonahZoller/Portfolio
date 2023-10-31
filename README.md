@@ -1,3 +1,18 @@
 # Jonah Zoller
 
-### Collection of past projects in Python, Java, and Web Development
+### About Me:
+
+3 paragraphs
+
+### Education Goals:
+1. 1
+2. 2
+3. 3
+
+### Life Goals:
+1. 1
+2. 2
+3. 3
+
+### Hobbies:
+pictures
